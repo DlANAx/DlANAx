@@ -1,16 +1,40 @@
-## Hi there 👋
+# Diana Al-Masri
 
-<!--
-**DlANAx/DlANAx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Molecular Biology & Genetics | Stem Cell Biology | Regenerative Medicine | Cancer Cells 
+ I am a molecular biology researcher interested in understanding cellular mechanisms and exploring innovative approaches to Mesenchymal Stem cells and Cancer Biology.
+ 
+## Research Interests
+- Mesenchymal stromal cells (MSCs)
+- Stem cell biology and tissue regeneration
+- Mitochondrial function and cellular metabolism
+- Wound healing and regenerative medicine
+- Molecular biology and bioinformatics
 
-Here are some ideas to get you started:
+##  Current Learning Goals
+- Strengthening my scientific literature review skills
+- Learning R/Python for biological data analysis
+- Exploring public gene-expression datasets
+- Developing reproducible research projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Research Portfolio
+
+**1. MSCs in Wound Healing**  
+A literature-based investigation of MSCs and their potential roles in tissue repair. *(In progress)*
+
+**2. Mitochondrial Function in MSCs**  
+Exploring the relationship between mitochondrial activity and MSC function. *(Planned)*
+
+**3. MSC Gene-Expression Analysis**  
+A computational biology project using publicly available gene-expression data. *(Planned)*
+
+##  Skills & Tools
+- Molecular Biology
+- Scientific Literature Review
+- Research Documentation
+- GitHub and Version Control *(learning)*
+- R/Python *(learning)*
+
+## My Goal
+To develop my research and computational skills, contribute to scientific discovery, and pursue opportunities in stem cell research and regenerative medicine.
+
+I believe in continuous learning, scientific integrity, and evidence-based research.
