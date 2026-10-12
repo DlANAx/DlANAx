@@ -16,7 +16,7 @@
 - Exploring public gene-expression datasets
 - Developing reproducible research projects
 
-## 📂 Research Portfolio
+##  Research Portfolio
 
 **1. MSCs in Wound Healing**  
 A literature-based investigation of MSCs and their potential roles in tissue repair. *(In progress)*
