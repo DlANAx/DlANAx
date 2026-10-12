@@ -22,10 +22,10 @@
 A literature-based investigation of MSCs and their potential roles in tissue repair. *(In progress)*
 
 **2. Mitochondrial Function in MSCs**  
-Exploring the relationship between mitochondrial activity and MSC function. *(Planned)*
+Exploring the relationship between mitochondrial activity and MSC function. 
 
 **3. MSC Gene-Expression Analysis**  
-A computational biology project using publicly available gene-expression data. *(Planned)*
+A computational biology project using publicly available gene-expression data. 
 
 ##  Skills & Tools
 - Molecular Biology
